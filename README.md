@@ -41,5 +41,5 @@ Directory | Tasks | AWS services
 - Member: [DevOps Academy](https://github.com/devopsacademyau)
 
 # Thanks
-Thank [DevOps Academy](https://github.com/devopsacademyau) vary much.
+Thank [DevOps Academy](https://github.com/devopsacademyau) very much.
 These files come from my answers for some excercises of AWS CLI on [DevOps Academy](https://github.com/devopsacademyau/academy/tree/master/classes).
