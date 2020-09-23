@@ -1,7 +1,7 @@
 # Overview
 
 * [The AWS Command Line Interface(CLI)](https://aws.amazon.com/cli/) is a unified tool to manage your AWS services.
-* These files are about how to control multiple AWS services from the command line and automate them through scripts.
+* These files are my practices about how to control multiple AWS services from the command line and automate them through scripts.
 
 
 
@@ -42,4 +42,4 @@ Directory | Tasks | AWS services
 
 # Thanks
 Thank [DevOps Academy](https://github.com/devopsacademyau) very much.
-These files come from my answers for some excercises of AWS CLI on [DevOps Academy](https://github.com/devopsacademyau/academy/tree/master/classes).
+These files come from my practices for some hands-on labs of AWS CLI on [DevOps Academy](https://github.com/devopsacademyau/academy/tree/master/classes).
